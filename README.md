@@ -8,3 +8,7 @@ Hi, my name is Paul and I'm passionate about computers!
 - Virtualization ([VMware](https://www.vmware.com/), [Proxmox](https://www.proxmox.com/))
 - Containerisation ([Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/))
 - Versioning ([Git](https://git-scm.com/downloads))
+
+### Contacts
+- Twitter ([@SwiiqueOff](https://twitter.com/SwiiqueOff))
+- Discord ([@Swiique#2511](discord.pronity.fr))
